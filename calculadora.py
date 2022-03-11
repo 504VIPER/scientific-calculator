@@ -1,3 +1,4 @@
+```python
 from tkinter import *
 from math import *
 from random import *
@@ -1023,3 +1024,4 @@ bot9.grid(column = 6, row = 7, padx = padx, pady = pady)
 
 
 janela.mainloop()
+```
