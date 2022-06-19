@@ -1,6 +1,6 @@
 # calculadora-cientifica
 
-# Scientific calculator made with python
+# **Scientific calculator made with python**
 
 <img src="https://img.shields.io/badge/pip_version-22.0.04-blue?style=for-the-badge&logo=pip">
 <img src="https://img.shields.io/badge/cx_Freeze_version-6.10-blue?style=for-the-badge&logo=cx-Freeze">
