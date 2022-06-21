@@ -1,10 +1,19 @@
-# calculadora-cientifica
+<div align="center">
+  
+# Scientific Calculator with Interface
+</div>
+language: PT-BR
 
-# **Scientific calculator made with python**
+## - Calculator made with python
+with more than 60 buttons, the calculator was made with the purpose of studies and analysis
 
-<img src="https://img.shields.io/badge/pip_version-22.0.04-blue?style=for-the-badge&logo=pip">
-<img src="https://img.shields.io/badge/cx_Freeze_version-6.10-blue?style=for-the-badge&logo=cx-Freeze">
-<img src="https://img.shields.io/badge/pyinstaller_version-4.8-blue?style=for-the-badge&logo=pyinstaller">
+## - Versions
+|pip|cx freeze|pyinstaller|
+|:--:|:--:|:--:|
+|22.0.04|6.10|4.8|
 
-## main page
+## - Main page
 ![image](https://user-images.githubusercontent.com/94506155/157986771-3bd14a64-1dbb-4774-a6ab-2cd6a80e6de4.png)
+
+- simple use with executavel file
+- with more then nine pages for help
